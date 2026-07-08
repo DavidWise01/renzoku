@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 389
+slug  : renzoku
+seal  : c192fb80abdf8735cde4dcfbf500f984c5750c837750ca1e3e0374ab93529284
+prev  : 778b20939792c63b644d1bd1a0e3dc6bcc4a633e1702276900d9562a68f98eed
+link  : 78efb651960cc586f406c07f1c0583208c904ac8ca009bf8a626fc76c64a14cd
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
